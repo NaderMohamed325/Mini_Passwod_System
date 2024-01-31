@@ -1,5 +1,5 @@
 # Mini_Passwod_System
-Certainly, I can help you structure a GitHub post for this code. Here's a template:
+
 
 ---
 
